@@ -1,0 +1,32 @@
+Package:com.yourcompany.m0_0.0.1-1+debug_iphoneos-arm-1.deb
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: x7mii	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts: com.unlimapps.uaupdatetools	
+Filename: debs/com.yourcompany.m0_0.0.1-1+debug_iphoneos-arm-1.deb
+Size: 584600	
+MD5sum:a576ae11102dae74e1669b59b0e73392 
+SHA1:	48dff9e419f51990ee9c90a5b5ca15f910ebb362
+SHA256: 8fec6e948ed448cc47067234e84fd34b26e7e19ec655747c15dfde05cbebeac0
+Section: Tweaks	Section: Tweaks
+Depiction: https://x71s.github.io/repo/	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
+Name: app
+
+Package: com.cokepokes.appstoreplusplus11
+Version: 0.9.8-9
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
+Size: 1346934
+MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
+SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
+SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
