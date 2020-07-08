@@ -9,7 +9,7 @@ Size: 	932
 MD5sum:	b1b142eb8f620c3b3d9fc0bce41f9d29
 SHA1:	90f13711b5389bfef48d60547f297932363e200b
 SHA256:	e6de3f95a0724bbd4438fb18ba31df6cc57a510a90870de8fa858573bae12084
-Section: Tweaks	Section: Tweaks
+Section: Tweaks
 Depiction: Tired of Apple revoking apps? Install NoMoreRevocations and you can now use and install revoked apps! What's so cool? AFTER REBOOT IT WILL STILL WORK! YES, YOU HEARD IT RIGHT! (PS. uninstalling won't undo)
 Depiction:
 Name: NoMoreRevocations
