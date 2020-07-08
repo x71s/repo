@@ -1,18 +1,17 @@
-Package: net.iapps4u.nmrr
-Version: 0.9.5
+Package: com.yourcompany.m0
+Version: 0.0.1-1
 Architecture: iphoneos-arm
-Maintainer: x7mii	
-Depends:  firmware (>= 11.0), mobilesubstrate 	
-Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/NoMoreRevocations.deb
-Size: 	932
-MD5sum:	b1b142eb8f620c3b3d9fc0bce41f9d29
-SHA1:	90f13711b5389bfef48d60547f297932363e200b
-SHA256:	e6de3f95a0724bbd4438fb18ba31df6cc57a510a90870de8fa858573bae12084
+Maintainer: x71s
+Depends: PicsArt App 
+Conflicts:
+Filename:debs/com.yourcompany.m0_0.0.1-1+debug_iphoneos-arm.deb
+Size:584290
+MD5sum:5338951b14756deb61f55141e246507a
+SHA1:263532a4f3be8e46e1adda93f16c7ff063106462
+SHA256:6c9e6124a80946ad96ba04afd1e168c4c214835a8b40e73ae4c08921f46a428d
 Section: Tweaks
-Depiction: Tired of Apple revoking apps? Install NoMoreRevocations and you can now use and install revoked apps! What's so cool? AFTER REBOOT IT WILL STILL WORK! YES, YOU HEARD IT RIGHT! (PS. uninstalling won't undo)
-Depiction:
-Name: NoMoreRevocations
+Depiction: https://x71s.com
+Name:Pics art hack 
 
 Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
