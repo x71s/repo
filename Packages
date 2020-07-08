@@ -49,3 +49,20 @@ SHA256:	11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
 Section: Re-sign
 Depiction: Re-sign applications on your device
 Name: Reprovision 
+
+
+
+Package: com.matchstic.reprovision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: x71s	
+Depends:  firmware (>= 9.0) mobilesubstrate 	
+Conflicts: com.unlimapps.uaupdatetools	
+Filename: debs/Reprovision.deb
+Size: 	14406348 Bytes
+MD5sum:	4064144eed72b264038cb91d9e477f1a
+SHA1:	1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256:	11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+Section: Re-sign
+Depiction: Re-sign applications on your device
+Name: Reprovision 
