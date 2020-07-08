@@ -1,68 +1,18 @@
-Package: net.iapps4u.nmrr
-Version: 0.9.5
-Architecture: iphoneos-arm
-Maintainer: x7mii	
-Depends:  firmware (>= 11.0), mobilesubstrate 	
-Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/NoMoreRevocations.deb
-Size: 	932
-MD5sum:	b1b142eb8f620c3b3d9fc0bce41f9d29
-SHA1:	90f13711b5389bfef48d60547f297932363e200b
-SHA256:	e6de3f95a0724bbd4438fb18ba31df6cc57a510a90870de8fa858573bae12084
-Section: Tweaks
-Depiction: Tired of Apple revoking apps? Install NoMoreRevocations and you can now use and install revoked apps! What's so cool? AFTER REBOOT IT WILL STILL WORK! YES, YOU HEARD IT RIGHT! (PS. uninstalling won't undo)
-Depiction:
-Name: NoMoreRevocations
-
-Package: com.cokepokes.appstoreplusplus11
-Version: 0.9.8-9
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
-Size: 1346934
-MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
-SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
-SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
-Section: Tweaks
-Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Name: AppStore++
-
-
-
-
-Package: com.matchstic.reprovision
-Version: 0.5.2~EOL
+Package: com.iphonecake.appcakej
+Version: 7.0.3
 Architecture: iphoneos-arm
 Maintainer: x71s	
 Depends:  firmware (>= 9.0) mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	
-Filename: .debs/Reprovision.deb
-Size: 	14406348 Bytes
-MD5sum:	4064144eed72b264038cb91d9e477f1a
-SHA1:	1287ffa0f2919789fc86a96267e8cb3410715ff8
-SHA256:	11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
-Section: Re-sign
-Depiction: Re-sign applications on your device
-Name: Reprovision 
+Filename: debs/com.iphonecake.appcakej_7.0.3_iphoneos-arm (1).deb
+Size: 	12733160 
+MD5sum:	4f2923edf2f3e196b77392641aef55cd
+SHA1:	e48ecc3d4e805eef1a967b9a8a6ebdfa0f25ce22
+SHA256:	a5f079a97570f9db58dc7190235c28474f8202825567864293af64b53de3ffd2
+Section: Tweak
+Depiction:AppCake download appsync to work
+Name: Appcake 
 
 
 
-Package: com.matchstic.reprovision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Maintainer: x71s	
-Depends:  firmware (>= 9.0) mobilesubstrate 	
-Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/Reprovision.deb
-Size: 	14406348 Bytes
-MD5sum:	4064144eed72b264038cb91d9e477f1a
-SHA1:	1287ffa0f2919789fc86a96267e8cb3410715ff8
-SHA256:	11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
-Section: Re-sign
-Depiction: Re-sign applications on your device
-Name: Reprovision 
+
