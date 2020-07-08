@@ -41,7 +41,7 @@ Architecture: iphoneos-arm
 Maintainer: x71s	
 Depends:  firmware (>= 9.0) mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/Reprovision.deb
+Filename: .debs/Reprovision.deb
 Size: 	14406348 Bytes
 MD5sum:	4064144eed72b264038cb91d9e477f1a
 SHA1:	1287ffa0f2919789fc86a96267e8cb3410715ff8
