@@ -1,17 +1,18 @@
-Package:com.m.m
-Version: 0.0.1-1
+Package: net.iapps4u.nmrr
+Version: 0.9.5
 Architecture: iphoneos-arm
 Maintainer: x7mii	
-Depends:  	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
 Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/com.yourcompany.m0_0.0.1-1+debug_iphoneos-arm-1.deb
-Size: 584600	
-MD5sum:a576ae11102dae74e1669b59b0e73392 
-SHA1:48dff9e419f51990ee9c90a5b5ca15f910ebb362
-SHA256: 8fec6e948ed448cc47067234e84fd34b26e7e19ec655747c15dfde05cbebeac0
-Section:Tweaks
-Depiction: https://x71s.github.io/repo/	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Name: app
+Filename: debs/NoMoreRevocations.deb
+Size: 	932
+MD5sum:	b1b142eb8f620c3b3d9fc0bce41f9d29
+SHA1:	90f13711b5389bfef48d60547f297932363e200b
+SHA256:	e6de3f95a0724bbd4438fb18ba31df6cc57a510a90870de8fa858573bae12084
+Section: Tweaks	Section: Tweaks
+Depiction: Tired of Apple revoking apps? Install NoMoreRevocations and you can now use and install revoked apps! What's so cool? AFTER REBOOT IT WILL STILL WORK! YES, YOU HEARD IT RIGHT! (PS. uninstalling won't undo)
+Depiction:
+Name: NoMoreRevocations
 
 Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
