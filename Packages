@@ -13,6 +13,19 @@ Section: Tweak
 Depiction:AppCake download appsync to work
 Name: Appcake 
 
-
-
-
+Package: com.yourcompany.m0
+Name: m0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: https://x71s.github.io/repo/x71s
+Author: https://x71s.github.io/repo/x71s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-1+debug
+Installed-Size: 848
+Filename: debs/com.yourcompany.m0_0.0.1-1+debug_iphoneos-arm-1.deb
+Size: 	570 
+MD5sum:	4f2923edf2f3e196b77392641aef55cd
+SHA1:	e48ecc3d4e805eef1a967b9a8a6ebdfa0f25ce22
+SHA256:	a5f079a97570f9db58dc7190235c28474f8202825567864293af64b53de3ffd2
+Section: Tweak
