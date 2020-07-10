@@ -2,11 +2,11 @@ Package: com.yourcompany.m0
 Name: PicsArt Tweak
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: https://x71s.github.io/repo/x71s
-Author: https://x71s.github.io/repo/x71s
+Maintainer: x71s 
+Author:x71s 
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Version: 0.0.1-1+debug
+Version: 0.1
 Installed-Size: 848
 Filename: debs/com.yourcompany.m0_0.0.1-1+debug_iphoneos-arm-1.deb
 Size: 	570 
