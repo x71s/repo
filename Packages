@@ -1,0 +1,35 @@
+Package: com.yourcompany.m0
+Name: PicsArt Tweak
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: https://x71s.github.io/repo/x71s
+Author: https://x71s.github.io/repo/x71s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-1+debug
+Installed-Size: 848
+Filename: debs/com.yourcompany.m0_0.0.1-1+debug_iphoneos-arm-1.deb
+Size: 	570 
+MD5sum:	A576AE11102DAE74E1669B59B0E73392
+SHA1:	48DFF9E419F51990EE9C90A5B5CA15F910EBB362
+SHA256:	8FEC6E948ED448CC47067234E84FD34B26E7E19EC655747C15DFDE05CBEBEAC0
+Section: Tweak
+
+
+
+Package: com.matchstic.reprovision
+Name: Reprovision 
+Architecture: iphoneos-arm
+Description: Re-sign apps download altstore
+Maintainer: x71s
+Author: x71s
+Section: System
+Depends: firmware (>= 9.0)
+Version:  0.5.2~EOL
+Installed-Size: 14406348 
+Filename: debs/Reprovision.deb
+Size: 	14406348 
+MD5sum:	4064144EED72B264038CB91D9E477F1A
+SHA1:	1287FFA0F2919789FC86A96267E8CB3410715FF8
+SHA256:	11EFA2B9C737860DF3EBE08EEAB429BFA664612C4B22B5E8AA237F20785B8E5D
+Section: System
